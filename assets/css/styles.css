@@ -661,7 +661,13 @@ a{
     display: flex;
     margin-top: 40px;
     width: 117px;
+    height: 27px;
     justify-content: space-between;
+}
+
+.footer .column .social-icon img:hover{
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
 }
 
 .footer .row-down{
