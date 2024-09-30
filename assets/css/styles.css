@@ -65,6 +65,7 @@ a{
 .hero-wrap{
     position: relative;
     display: flex;
+    justify-content: center;
     flex-direction: column;
     background: #E6F0FF;
     height: calc(100vh - 90px);
@@ -115,10 +116,6 @@ a{
 .content-2{
     margin-top: 138px;
 
-}
-
-.hero{
-    margin-top: 130px;
 }
 
 .hero .info{
